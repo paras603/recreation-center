@@ -1,0 +1,6 @@
+Ticket category, 1 hour rate, 2 hours rate, 3 hours rate, 4 hours rate, Whole day rate
+Child (5-12),400, 700, 1050, 1450, 2200
+Adult > 12,550, 1000, 1500, 2100, 2700
+Group of 5,600, 1200, 1800, 2400, 5000
+Group of 10,650, 1300, 1950, 2600, 5000
+Group of 15,700, 1400, 2100, 2400, 6000

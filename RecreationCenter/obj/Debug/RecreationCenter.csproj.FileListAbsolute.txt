@@ -1,0 +1,15 @@
+C:\Users\parasmani\source\repos\RecreationCenter\RecreationCenter\bin\Debug\RecreationCenter.exe.config
+C:\Users\parasmani\source\repos\RecreationCenter\RecreationCenter\bin\Debug\RecreationCenter.exe
+C:\Users\parasmani\source\repos\RecreationCenter\RecreationCenter\bin\Debug\RecreationCenter.pdb
+C:\Users\parasmani\source\repos\RecreationCenter\RecreationCenter\obj\Debug\RecreationCenter.csproj.AssemblyReference.cache
+C:\Users\parasmani\source\repos\RecreationCenter\RecreationCenter\obj\Debug\RecreationCenter.csproj.SuggestedBindingRedirects.cache
+C:\Users\parasmani\source\repos\RecreationCenter\RecreationCenter\obj\Debug\RecreationCenter.Properties.Resources.resources
+C:\Users\parasmani\source\repos\RecreationCenter\RecreationCenter\obj\Debug\RecreationCenter.csproj.GenerateResource.cache
+C:\Users\parasmani\source\repos\RecreationCenter\RecreationCenter\obj\Debug\RecreationCenter.csproj.CoreCompileInputs.cache
+C:\Users\parasmani\source\repos\RecreationCenter\RecreationCenter\obj\Debug\RecreationCenter.exe
+C:\Users\parasmani\source\repos\RecreationCenter\RecreationCenter\obj\Debug\RecreationCenter.pdb
+C:\Users\parasmani\source\repos\RecreationCenter\RecreationCenter\obj\Debug\RecreationCenter.RecreationCenter.resources
+C:\Users\parasmani\source\repos\RecreationCenter\RecreationCenter\obj\Debug\RecreationCenter.StaffLogin.resources
+C:\Users\parasmani\source\repos\RecreationCenter\RecreationCenter\obj\Debug\RecreationCenter.AdminLogin.resources
+C:\Users\parasmani\source\repos\RecreationCenter\RecreationCenter\obj\Debug\RecreationCenter.AdminDashboard.resources
+C:\Users\parasmani\source\repos\RecreationCenter\RecreationCenter\obj\Debug\RecreationCenter.StaffDashboard.resources
